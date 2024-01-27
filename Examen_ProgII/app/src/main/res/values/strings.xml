@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen_ProgII</string>
+    <string name="titulo">Registro Medidor</string>
+    <string name="agua">Agua</string>
+    <string name="luz">Luz</string>
+    <string name="gas">Gas</string>
+    <string name="btnRegistro">Registrar medición</string>
+    <string name="btnAdd">Agregar</string>
+    <string name="fecha">Fecha</string>
+    <string name="medidor">Medidor</string>
+</resources>

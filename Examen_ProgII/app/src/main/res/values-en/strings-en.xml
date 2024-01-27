@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen_ProgII</string>
+    <string name="titulo">Metering register</string>
+    <string name="agua">Water</string>
+    <string name="luz">Electricity</string>
+    <string name="gas">Gas</string>
+    <string name="btnRegistro">Record measurement</string>
+    <string name="btnAdd">Add</string>
+    <string name="fecha">Date</string>
+    <string name="medidor">Metering</string>
+</resources>
